@@ -1,0 +1,22 @@
+OPA, Esse é um projetinho simples que fiz pra brincar um pouco com Python e Pygame. 
+A ideia é bem direta: 100 bolas coloridas ficam quicando dentro de um círculo na tela. 
+Cada uma tem tamanho, velocidade e cor diferentes, o que deixa o movimento bem legal de assistir.
+
+
+Como funciona?
+Usei o Pygame pra criar uma janela de 800x800 pixels.
+Dentro dela, tem um círculo preto grandão onde as bolas ficam presas.
+As bolas começam em posições aleatórias e saem se mexendo com velocidades também aleatórias.
+Quando elas batem na borda do círculo, quicam de volta usando uns cálculos de reflexão que eu achei por aí (confesso que dei uma pesquisada pra acertar essa parte).
+
+O que você precisa pra rodar
+Python: Tem que ter instalado no seu computador (eu usei a versão 3.x).
+Pygame: Dá pra instalar fácil com pip install pygame no terminal.
+Só salvar o código num arquivo tipo bolas_quicando.py e rodar com python bolas_quicando.py (ou python3, dependendo do seu sistema).
+Como usar
+É só executar o arquivo! Uma janela vai abrir com as bolas quicando. Pra fechar, é só clicar no X da janela. Não tem muito segredo.
+
+Por que fiz isso?
+Queria testar umas coisas de movimento e colisão em Python, e achei que um monte de bolas coloridas ia ficar visualmente legal. Deu um trabalhão pra fazer elas quicarem direitinho no círculo, mas no fim deu certo e ficou divertido de ver.
+![alt text](image.png)
+
