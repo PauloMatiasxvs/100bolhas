@@ -12,7 +12,7 @@ Quando elas batem na borda do círculo, quicam de volta usando uns cálculos de 
 O que você precisa pra rodar
 Python: Tem que ter instalado no seu computador (eu usei a versão 3.x).
 Pygame: Dá pra instalar fácil com pip install pygame no terminal.
-Só salvar o código num arquivo tipo bolas_quicando.py e rodar com python bolas_quicando.py (ou python3, dependendo do seu sistema).
+Só salvar o código num arquivo tipo bolas_quicando.py e rodar com python 100bolhas.py (ou python3, dependendo do seu sistema).
 Como usar
 É só executar o arquivo! Uma janela vai abrir com as bolas quicando. Pra fechar, é só clicar no X da janela. Não tem muito segredo.
 
